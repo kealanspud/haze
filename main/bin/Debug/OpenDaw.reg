@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\haze]
+@="Haze"
+"URL Protocol"="haze"
+[HKEY_CLASSES_ROOT\haze\DefaultIcon]
+@="C:\Users\keala\source\repos\daw\daw\bin\Debug\daw.exe"
+[HKEY_CLASSES_ROOT\haze\shell]
+[HKEY_CLASSES_ROOT\haze\shell\open]
+[HKEY_CLASSES_ROOT\haze\shell\open\command]
+@="C:\Users\keala\source\repos\daw\daw\bin\Debug\daw.exe \"%1\""
